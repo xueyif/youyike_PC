@@ -16,6 +16,7 @@ img{
 	vertical-align:top;
 }
 a{
+	outline:none;
 	text-decoration:none;
 }
 input,textarea{
