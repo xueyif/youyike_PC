@@ -200,12 +200,12 @@ input,textarea{
 	float:left;
 	font:14px/70px "微软雅黑";
 	text-align:center;
-}
-#nav li a{
 	display: block;
 	color:#666;
 	position: relative;
+	cursor:pointer;
 }
+
 #nav #navmove{
 	height:10px;
 	background:url(../img/nava2.png) no-repeat;
